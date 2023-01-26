@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to my page! 👋
+I'm Adam, a computer science student at Washington State University
 
 <!--
 **AdamKaraki/AdamKaraki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
