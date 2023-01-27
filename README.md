@@ -1,5 +1,6 @@
 ### Welcome to my page! 👋
-I'm Adam, a computer science student at Washington State University
+🌱 I'm Adam, a computer science student at Washington State University
+👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
 
 ### Languages and Tools:
 
