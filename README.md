@@ -1,4 +1,4 @@
-### Welcome to my page! 👋
+### Welcome to my page! 👋<img align="right" src="https://giphy.com/stickers/wsupullman-gocougs-wsu-go-cougs-4ET2y5RfAhXtHUpQhw" alt="Programmation" width="200" />
 🌱 I'm Adam, a computer science student at Washington State University</br>
 👨‍💻 I am passionate about web development, and I enjoy learning new things.</br>
 🌟 In my leisure time, I enjoy exploring new sources and finding inspiration for projects.</br>
