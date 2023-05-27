@@ -23,6 +23,8 @@
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/> </a>
 <a href="https://www.linux.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/> </a>
+<a href="https://www.aws.amazon.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/> </a>
 
 
 <!--
